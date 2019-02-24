@@ -1,4 +1,4 @@
 def meal_choice(meal = "meat")
-  puts ${meal}
+  puts #{meal}
   end
    
